@@ -25,4 +25,4 @@ Push의 경우 여러 기능들을 한 줄로 관리하여 사용할 때 유용�
 - 또 다른 예로는, 파생 브랜치들을 하나의 브랜치로 관리하고 싶은 경우 유용할 수도 있을 것 같다.
 
 Rebase는 pull을 받을 때 유용하게 사용할 수 있는데, Merge Pull이 아닌 Rebase Pull을 사용하여 깃 그래프를 보다 가독성 있게 관리할 수 있다.
-[https://dev.to/tandrieu/tiny-tips-git-pull-rebase-1hbi](그림을 통해 확인해보자.)
+[그림을 통해 확인해보자.](https://dev.to/tandrieu/tiny-tips-git-pull-rebase-1hbi)
